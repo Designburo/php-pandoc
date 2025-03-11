@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repo is not maintained.
+
 Pandoc PHP
 ==========
 
