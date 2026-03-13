@@ -1,5 +1,5 @@
 {
-    "name": "designburo/pandocPHP",
+    "name": "designburo/php-pandoc",
     "license": "MIT",
     "autoload": {
         "psr-0": {
